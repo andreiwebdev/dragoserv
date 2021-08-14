@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dragoserv/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dragoserv/static/js/main.20073db2.chunk.js",
+    "main.js.map": "/dragoserv/static/js/main.20073db2.chunk.js.map",
+    "runtime-main.js": "/dragoserv/static/js/runtime-main.7e4fce54.js",
+    "runtime-main.js.map": "/dragoserv/static/js/runtime-main.7e4fce54.js.map",
+    "static/js/2.5e607c51.chunk.js": "/dragoserv/static/js/2.5e607c51.chunk.js",
+    "static/js/2.5e607c51.chunk.js.map": "/dragoserv/static/js/2.5e607c51.chunk.js.map",
+    "static/js/3.8e4d9c54.chunk.js": "/dragoserv/static/js/3.8e4d9c54.chunk.js",
+    "static/js/3.8e4d9c54.chunk.js.map": "/dragoserv/static/js/3.8e4d9c54.chunk.js.map",
+    "index.html": "/dragoserv/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dragoserv/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5e607c51.chunk.js.LICENSE.txt": "/dragoserv/static/js/2.5e607c51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e4fce54.js",
+    "static/js/2.5e607c51.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.20073db2.chunk.js"
+  ]
+}
